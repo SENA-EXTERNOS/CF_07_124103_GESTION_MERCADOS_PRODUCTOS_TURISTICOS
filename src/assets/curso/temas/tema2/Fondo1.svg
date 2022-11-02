@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1240" height="239" viewBox="0 0 1240 239">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_40737" data-name="Rectángulo 40737" width="225" height="239" rx="65" transform="translate(180 1521)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_137598" data-name="Grupo 137598" transform="translate(4099 10147)">
+    <g id="Grupo_137597" data-name="Grupo 137597">
+      <rect id="Rectángulo_40733" data-name="Rectángulo 40733" width="1240" height="239" rx="73" transform="translate(-4099 -10147)" fill="#3c5318"/>
+    </g>
+    <g id="Enmascarar_grupo_138" data-name="Enmascarar grupo 138" transform="translate(-4279 -11668)" opacity="0.526" clip-path="url(#clip-path)">
+      <g id="Grupo_116381" data-name="Grupo 116381">
+        <rect id="Rectángulo_40735" data-name="Rectángulo 40735" width="105" height="238" rx="52.5" transform="translate(284.726 1514.446) rotate(47)" fill="#a7e446" opacity="0.427"/>
+        <rect id="Rectángulo_40736" data-name="Rectángulo 40736" width="56.933" height="238" rx="28.466" transform="translate(331.172 1627) rotate(47)" fill="#a7e446" opacity="0.427"/>
+      </g>
+    </g>
+    <g id="Enmascarar_grupo_139" data-name="Enmascarar grupo 139" transform="translate(-3264 -11668)" opacity="0.526" clip-path="url(#clip-path)">
+      <g id="Grupo_116383" data-name="Grupo 116383">
+        <rect id="Rectángulo_40743" data-name="Rectángulo 40743" width="23.962" height="238" rx="11.981" transform="translate(404.227 1408.5) rotate(47)" fill="#a7e446" opacity="0.427"/>
+        <rect id="Rectángulo_40744" data-name="Rectángulo 40744" width="15.555" height="238" rx="7.778" transform="translate(451.227 1408.5) rotate(47)" fill="#a7e446" opacity="0.427"/>
+      </g>
+    </g>
+  </g>
+</svg>
