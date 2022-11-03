@@ -7,14 +7,14 @@
         span 4
       h1 Estudios de mercado
 
-    .row.justify-content-around.align-items-center
-          .col-lg-3.mb-5
+    .row.justify-content-center.align-items-center
+          .col-3.mb-5.sm-8
              figure
-               img(src='@/assets/curso/temas/tema4/img1.png', alt='Texto que describa la imagen')
-          .col-lg-5.mb-5
+               img(src='@/assets/curso/temas/tema4/img1.png', alt='Texto que describa la imagen').imagen-deco
+          .col-lg-5.mb-5.sm-8
             p.mt-1 Un estudio de mercado es una investigación que se realiza antes de que una empresa entre a un nuevo mercado o plaza. Es por ello que para comprender el concepto de estudio de mercado debe conocerse y apreciarse el de investigación de mercados, el cual es el insumo para realizar dichos estudios.
 
-    .row.mt-5.justify-content-center
+    .row.mt-3.justify-content-center
       .col-10.col-lg-8
         b Kotler, P. 
         p (1996), define la investigación de mercados como: 
@@ -24,12 +24,12 @@
             i.fas.fa-quote-left
             p la planeación, recopilación y análisis de la información relevante para la toma de decisiones en las estrategias de marketing de las organizaciones
             i.fas.fa-quote-right
-            p (p. 21).
+            p  (p. 21).
 
       .col-10.col-lg-8
         p Por su parte, #[b Kinnear & Taylor] (1998) la interpretan como: 
 
-        .bloque-texto-b.color-acento-contenido.p-4
+        .bloque-texto-b.color-cajon.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
             p un enfoque sistemático y objetivo del desarrollo y la provisión de información aplicable al proceso de toma de decisiones en la gerencia de mercadeo
@@ -37,14 +37,87 @@
             p (p. 13).
 
     .row.mt-5.justify-content-center
-      .col-10.col-lg-8
+      .col-lg-10
         p Complementando estas definiciones, podría decirse que las investigaciones tienen por fin la entrega de información que permita conocer sobre un tema de interés de forma oportuna, es decir, en el momento en que se requiere y cuando es aplicada a un estudio de mercado, la finalidad será proporcionar información valiosa que permita a una empresa tomar la decisión de si es conveniente o no ingresar a un nuevo mercado, entendido como una nueva plaza o geografía.
 
-      p.mt-5 Para comprender el proceso de la investigación de mercados, este se resumirá en los siguientes pasos: 
+      p Para comprender el proceso de la investigación de mercados, este se resumirá en los siguientes pasos: 
 
-      p PENDIENTE
+    .row.mt-5
+      ol.lista-ol--cuadro.lista-ol--separador
+        li 
+          .lista-ol--cuadro__vineta
+            span 
+          b Proceso de realización de una investigación de mercados
 
-      p Se detalla el proceso para la realización de una investigación de mercados con un ejemplo.
+    .row.justify-content-center.mb-5
+    .col-lg-11.position-relative
+      .avatar
+        figure
+        img(src="@/assets/curso/temas/tema4/img14.png", alt="alt").img250
+      .tarjeta.imgpestanaborder.p-4(titulo="Planeación")
+        .row
+          .col-1
+            figure
+            img(src='@/assets/curso/temas/tema4/icono1.svg' width='110px' height='110px')
+
+          .col-9
+            h4 Planeación
+            p Es el momento en el que se define el objetivo de investigación, alcance, tiempo estimado y presupuesto. En el caso de un estudio de mercado, el fin es obtener información valiosa sobre un determinado mercado.
+      
+      .tarjeta.imgpestanas2.p-4(titulo="Diseño")
+        .row
+          .col-1
+            figure
+            img(src='@/assets/curso/temas/tema4/icono2.svg' width='110px' height='110px')
+
+          .col-9
+            h4 Diseño
+            p Consiste en definir qué tipo de metodología se aplicará y a través de qué instrumento de recopilación de datos se realizará.
+
+      .tarjeta.imgpestana.p-4(titulo="Trabajo de campo")
+        .row
+          .col-1
+            figure
+            img(src='@/assets/curso/temas/tema4/icono3.svg' width='110px' height='110px')
+
+          .col-9
+            h4 Diseño
+            p Se refiere al levantamiento de información con el público objetivo del estudio.
+      
+
+      .tarjeta.imgpestanas2.p-4(titulo="Procesamiento y análisis")
+        .row
+          .col-1
+            figure
+            img(src='@/assets/curso/temas/tema4/icono4.svg' width='110px' height='110px')
+
+          .col-9
+            h4 Procesamiento y análisis
+            p Consiste en convertir todos los datos recogidos en información, para lo cual se utilizan aplicaciones informáticas que pueden ser tan sencillas como Excel, o tan especializadas como los paquetes estadísticos. 
+
+      .tarjeta.imgpestana.p-4(titulo="Elaborar el informe")
+        .row
+          .col-1
+            figure
+            img(src='@/assets/curso/temas/tema4/icono5.svg' width='110px' height='110px')
+
+          .col-9
+            h4 Elaborar el informe
+            p Se estructura todo, contendrá imágenes, gráficos, tablas y texto que permitan mostrar de forma clara lo recopilado. Y sexto, aunque no menos importante.
+
+      .tarjeta.imgpestanaborder2.p-4(titulo="Presentación de resultados")
+        .row
+          .col-1
+            figure
+            img(src='@/assets/curso/temas/tema4/icono6.svg' width='110px' height='110px')
+
+          .col-9
+            h4 Presentación de resultados
+            p Constituye el momento de verdad entre quien presenta la investigación y quien la solicitó, y es aquel instante donde se exponen los resultados obtenidos al realizar la investigación. Cuando se ha hecho un estudio para viabilizar un mercado, el informe deberá dar claras señales de si es conveniente o no para la empresa ingresar al nuevo mercado. 
+      
+        
+
+      p.mt-5 Se detalla el proceso para la realización de una investigación de mercados con un ejemplo.
 
     .row.mt-5
       ol.lista-ol--cuadro.lista-ol--separador
@@ -98,7 +171,7 @@
 
     separador
 
-    .titulo-segundo.color-acento-contenido.mt-5
+    #t_4_1.titulo-segundo.color-acento-contenido.mt-5
       h2 4.1  Estudios cualitativos
 
     .row
@@ -114,17 +187,19 @@
             .tarjeta.bg8.mt-2.p-3
               .row.justify-content-around.align-items-center
                 .col-lg-1.mb-3
-                  img(src="@/assets/curso/temas/tema4/img11.svg")
+                  img(src="@/assets/curso/temas/tema4/img11.svg" width='200px' height='100px')
                 .col-11
                   .row.justify-content-between.align-items-center
                     .col.mb-4.mb-sm-0
                       h4.mb-1.text-white Técnicas de investigación cualitativa
                       p.text-small.text-white Para ampliar la información, lo invitamos a ver el Anexo 1. Técnicas de investigación cualitativa, en el cual se describen las técnicas más utilizadas como, por ejemplo, la observación, entrevista en profundidad, técnicas proyectivas, grupos focales, estudios etnográficos, entre otros.  
                     .col-sm-auto
-                      a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo 2 - Etapas en la negociacion con proveedores.pdf')" target="_blank")
+                      a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexo 1. CF07 Tecnicas de investigación cualitativa.pdf')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
 
+    #t_4_2.titulo-segundo.color-acento-contenido.mt-5
+      h2 4.2  Estudios cuantitavios
 
     .row.mt-5.justify-content-center
       .col-10
@@ -140,16 +215,19 @@
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption   VIDEO
 
-    .row.mt-5.justify-content-center
+    .row.justify-content-center.mt-5
+      .col-lg-8.sm-8
         .cajon.color-acento-contenido.p-4
           p Cabe mencionar que una buena encuesta debe cumplir dos características fundamentales: fiabilidad, donde se evalúa si esta, en igualdad de condiciones, proporciona iguales resultados, es decir, es precisa y se entiende lo mismo cada vez que se aplica, y validez, la cual consiste en que mida lo que tiene que medir.
       
     .row.justify-content-around.align-items-center.mt-5
           .col-lg-2.col-sm-10
             figure
-              img(src='@/assets/curso/temas/tema4/img13.svg', alt='Texto que describa la imagen').img-tarjeta-linea-1
+              img(src='@/assets/curso/temas/tema4/img13.svg', alt='Texto que describa la imagen').imagen-deco
           .col-lg-10.col-sm-10
             p.mt-1 En resumen, no se puede afirmar que una metodología sea mejor que otra; la aplicabilidad de cada una de ellas dependerá de cuál es el objetivo de la investigación y los recursos disponibles. De hecho, los investigadores de mercados sugieren que la ‘opción ideal’ es realizar estudios mixtos, es decir, donde se apliquen ambas metodologías (cualitativa y cuantitativa). En algunos casos, se recomienda comenzar con la cualitativa para entender y acotar y continuar con la cuantitativa para tener resultados globales, en otros, por el contrario, se recomienda comenzar con un estudio cuantitativo y continuar con la metodología cualitativa para profundizar en los temas de interés; no obstante, cuando se van a realizar estudios de mercado para determinar la viabilidad de un mercado, siempre se deberá incluir la metodología cuantitativa con el fin de obtener cifras estadísticas y representativas.
+    
+
     
 
 </template>
