@@ -25,7 +25,7 @@
         .row
           .col-xl-2.mb-4
             figure
-            img(src='@/assets/curso/temas/tema3/img5.svg' width='110px' height='110px')
+            img(src='@/assets/curso/temas/tema3/img5.svg').img3
 
           .col-xl-10
             h4 Distribuidores principales:
@@ -35,7 +35,7 @@
         .row
           .col-xl-2.mb-4
             figure
-            img(src='@/assets/curso/temas/tema3/img6.svg' width='110px' height='110px')
+            img(src='@/assets/curso/temas/tema3/img6.svg' width='110px' height='110px').img3
 
           .col-xl-10
             h4 Distribuidores mayoristas:
@@ -46,7 +46,7 @@
         .row
           .col-xl-2.mb-4
             figure
-            img(src='@/assets/curso/temas/tema3/img7.svg' width='110px' height='110px')
+            img(src='@/assets/curso/temas/tema3/img7.svg' width='110px' height='110px').img3
           .col-xl-10
             h4 Distribuidores minoristas:
             p Son aquellas empresas que venden directamente el producto turístico al cliente final. En esta línea están incluidas las agencias de viajes tradicionales (física), las agencias de viaje online y los operadores turísticos que comercializan al consumidor.
@@ -55,7 +55,7 @@
         .row
           .col-xl-2.mb-4
             figure
-            img(src='@/assets/curso/temas/tema3/img8.svg' width='110px' height='110px')
+            img(src='@/assets/curso/temas/tema3/img8.svg' width='110px' height='110px').img3
           .col-xl-10
             h4 Clientes/usuarios:
             p Son aquellos que requieren del producto turístico. Usualmente, se clasifican en viajeros de negocios, turistas vacacionales y viajeros sociales/ familiares.

@@ -16,8 +16,7 @@
 
     .row.mt-3.justify-content-center
       .col-10.col-lg-8
-        b Kotler, P. 
-        p (1996), define la investigación de mercados como: 
+        p #[b Kotler, P.] (1996), define la investigación de mercados como: 
         
         .bloque-texto-b.color-acento-contenido.p-4
           .bloque-texto-b__texto
@@ -81,7 +80,7 @@
             img(src='@/assets/curso/temas/tema4/icono3.svg' width='110px' height='110px')
 
           .col-9
-            h4 Diseño
+            h4 Trabajo de campo
             p Se refiere al levantamiento de información con el público objetivo del estudio.
       
 

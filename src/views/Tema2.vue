@@ -67,22 +67,22 @@
               
          
           .tarjeta.bg1(x="50%" y="2%" numero="1")
-           .row.justify-content-around.align-items-center.p-4
-            .col-2
-              figure
-              img(src="@/assets/curso/temas/tema2/icono1.svg")
-            .col-lg-10
-              .row.justify-content-between.align-items-center
-                .col-xl-12
-                  b.mb-1.text-white La planta física
-                  p.text-small.text-white Es considerada el fundamento del producto turístico y está asociado con las instalaciones, lugares y recursos naturales donde funciona el producto. Asimismo, incluye las condiciones ambientales y meteorológicas del destino en cuestión. Este componente puede, en primera instancia, ser el generador de interés por parte del cliente interesado, y por tanto, tiene gran preponderancia en la evaluación que haga el turista del lugar.
-          
+            .row.justify-content-around.align-items-center.p-4
+              .col-2
+                figure
+                img(src="@/assets/curso/temas/tema2/icono1.svg").img300
+              .col-lg-10
+                .row.justify-content-between.align-items-center
+                  .col-xl-12
+                    b.mb-1.text-white La planta física
+                    p.text-small.text-white Es considerada el fundamento del producto turístico y está asociado con las instalaciones, lugares y recursos naturales donde funciona el producto. Asimismo, incluye las condiciones ambientales y meteorológicas del destino en cuestión. Este componente puede, en primera instancia, ser el generador de interés por parte del cliente interesado, y por tanto, tiene gran preponderancia en la evaluación que haga el turista del lugar.
+            
 
           .tarjeta.bg2(x="50%" y="16%" numero="2")
            .row.justify-content-around.align-items-center.p-4
             .col-2
               figure
-              img(src="@/assets/curso/temas/tema2/icono2.svg")    
+              img(src="@/assets/curso/temas/tema2/icono2.svg").img300   
             .col-lg-10
               .row.justify-content-between.align-items-center
                 .col-xl-12        
@@ -94,7 +94,7 @@
            .row.justify-content-around.align-items-center.p-4
             .col-2
               figure
-              img(src="@/assets/curso/temas/tema2/icono3.svg") 
+              img(src="@/assets/curso/temas/tema2/icono3.svg").img300
             .col-lg-10
               .row.justify-content-between.align-items-center
                 .col-xl-12
@@ -106,7 +106,7 @@
            .row.justify-content-around.align-items-center.p-4
             .col-2
               figure
-              img(src="@/assets/curso/temas/tema2/icono4.svg") 
+              img(src="@/assets/curso/temas/tema2/icono4.svg").img300
             .col-lg-10
               .row.justify-content-between.align-items-center
                 .col-xl-12
@@ -117,7 +117,7 @@
            .row.justify-content-around.align-items-center.p-4
             .col-2
               figure
-              img(src="@/assets/curso/temas/tema2/icono5.svg") 
+              img(src="@/assets/curso/temas/tema2/icono5.svg").img300
             .col-lg-10
               .row.justify-content-between.align-items-center
                 .col-xl-12
@@ -131,9 +131,9 @@
             span 
           b Sustitutos del producto turístico
 
-    p.mt-4 A continuación, se precisa el concepto de producto sustituto en relación con las actividades turísticas. En términos técnicos, un producto sustituto es un producto diferente que satisface la misma necesidad.
+    p.mt-1 A continuación, se precisa el concepto de producto sustituto en relación con las actividades turísticas. En términos técnicos, un producto sustituto es un producto diferente que satisface la misma necesidad.
 
-    .container.tarjeta.p-4.p-md-5
+    .container.tarjeta.p-3.p-md-3
     SlyderB.ps-4.mb-0(:datos="datosSlyder").imgslider2
       
 

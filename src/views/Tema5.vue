@@ -8,7 +8,7 @@
       h1 Mercadeo 
 
     .row
-      .col-lg-6.mb-5
+      .col-lg-6.mb-2
         p A continuación, se presenta el concepto de mercadeo, según #[b Kotler y Armstrong.]
 
       .col-lg-12
@@ -107,7 +107,7 @@
               img(src='@/assets/curso/temas/tema5/img4.png', alt='Texto que describa la imagen')
               
         
-          .tarjeta.color-acento-botones.p-4(x="58%" y="27%" numero="1")
+          .tarjeta.color-acento-botones.p-4(x="58%" y="27%" numero="")
             .row
               .col-5
                 figure
@@ -117,7 +117,7 @@
                 b.mb-1 Producto:
                 p Aquello que la empresa ofrece al mercado. 
 
-          .tarjeta.color-acento-botones.p-3(x="71%" y="40%" numero="2") 
+          .tarjeta.color-acento-botones.p-3(x="71%" y="40%" numero="") 
             .row
               .col-5
                 figure
@@ -126,7 +126,7 @@
                 b Precio:
                 p Es el valor monetario de la transacción, es decir, es lo que paga el cliente a cambio de obtener el producto que requiere.
 
-          .tarjeta.color-acento-botones.p-3(x="69%" y="61.2%" numero="3")
+          .tarjeta.color-acento-botones.p-3(x="69%" y="61.2%" numero="")
             .row
               .col-5
                 figure
@@ -135,7 +135,7 @@
                 b.text-small Promoción(Comunicación):
                 p.text-small Está relacionada con aquellos tácticos enfocados en la marca y en la comunicación de la oferta de valor.
 
-          .tarjeta.color-acento-botones.p-3(x="51%" y="73.5%" numero="4")
+          .tarjeta.color-acento-botones.p-3(x="51%" y="73.5%" numero="")
             .row
               .col-5
                 figure
@@ -144,7 +144,7 @@
                 b Plaza:
                 p Está asociada a los canales de distribución y cómo se asegura que el producto llegue a manos del cliente.
 
-          .tarjeta.color-acento-botones.p-3(x="36%" y="68%" numero="5")
+          .tarjeta.color-acento-botones.p-3(x="36%" y="68%" numero="")
             .row
               .col-lg-5
                 figure
@@ -153,7 +153,7 @@
                 b Personas:
                 p.text-small Los colaboradores de la empresa son los que pueden realmente hacer que las cosas sucedan; es por ello que se convierten en protagonistas dentro de las estrategias de mercadeo. Asimismo, son las personas las que generalmente van a interactuar con los clientes y generarán en ellos percepciones positivas o negativas de la marca.
 
-          .tarjeta.color-acento-botones.p-3(x="28%" y="48%" numero="6")
+          .tarjeta.color-acento-botones.p-3(x="28%" y="48%" numero="")
             .row
               .col-lg-5
                 figure
@@ -162,7 +162,7 @@
                 b Procesos:
                 p.text-small Para que las diferentes acciones de mercadeo se lleven a cabo de la mejor manera posible, deben existir procesos que permitan que, de cara al cliente, todo tenga estructura y un paso a paso claro y sencillo para interactuar con la empresa en el momento de gestionar sus requerimientos.
 
-          .tarjeta.color-acento-botones.p-3(x="38%" y="29%" numero="7")
+          .tarjeta.color-acento-botones.p-3(x="38%" y="29%" numero="")
             .row
               .col-lg-5
                 figure
