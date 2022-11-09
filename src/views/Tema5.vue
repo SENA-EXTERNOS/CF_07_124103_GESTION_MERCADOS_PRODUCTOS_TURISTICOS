@@ -12,7 +12,9 @@
         p A continuación, se presenta el concepto de mercadeo, según #[b Kotler y Armstrong.]
 
       .col-lg-12
-        p Mercadeo o marketing en inglés, es el nombre con el cual se conoce al conjunto de estrategias, tácticas y actividades que diseña e implementa una empresa para que su portafolio llegue de manera exitosa a los clientes; de hecho, #[b Kotler & Armstrong] definen el mercadeo como 
+        p Mercadeo o 
+          i marketing 
+          | en inglés, es el nombre con el cual se conoce al conjunto de estrategias, tácticas y actividades que diseña e implementa una empresa para que su portafolio llegue de manera exitosa a los clientes; de hecho, #[b Kotler & Armstrong] definen el mercadeo como 
 
     
     .row.mt-3.justify-content-center
@@ -131,7 +133,7 @@
               .col-5
                 figure
                 img(src="@/assets/curso/temas/tema5/icono3.svg" width='110px' height='110px')       
-              .col-7
+              .col-7.p-2
                 b.text-small Promoción(Comunicación):
                 p.text-small Está relacionada con aquellos tácticos enfocados en la marca y en la comunicación de la oferta de valor.
 
@@ -175,7 +177,9 @@
     .row.justify-content-center.mt-5
       .col-lg-10.sm-8
         .cajon.color-acento-contenido.p-4
-          p En resumen, las empresas que requieren implementar un mercadeo con sentido en su organización necesitan tener un producto que ofrecer al mercado. Dichos bienes o servicios serán adquiridos por los clientes a un determinado precio, sin embargo, para que el producto llegue a manos del cliente se requiere contar con canales de distribución (plaza) y por supuesto, para que los clientes sepan que la marca existe, esta debe ser promocionada. Bajo esta perspectiva, las 4P’s seguirán existiendo porque son la base sobre la cual se fundamenta el accionar comercial. Asimismo, en el enfoque moderno contar con buenos procesos, una marca posicionada y colaboradores comprometidos (personas) será un mix perfecto para llegar con una fórmula retadora al mercado y poder hacer frente a un entorno tan competitivo como el actual.
+          p En resumen, las empresas que requieren implementar un mercadeo con sentido en su organización necesitan tener un producto que ofrecer al mercado. Dichos bienes o servicios serán adquiridos por los clientes a un determinado precio, sin embargo, para que el producto llegue a manos del cliente se requiere contar con canales de distribución (plaza) y por supuesto, para que los clientes sepan que la marca existe, esta debe ser promocionada. Bajo esta perspectiva, las 4P’s seguirán existiendo porque son la base sobre la cual se fundamenta el accionar comercial. Asimismo, en el enfoque moderno contar con buenos procesos, una marca posicionada y colaboradores comprometidos (personas) será un 
+            i mix 
+            | perfecto para llegar con una fórmula retadora al mercado y poder hacer frente a un entorno tan competitivo como el actual.
       
     separador
 
@@ -188,7 +192,9 @@
             figure
               img(src='@/assets/curso/temas/tema5/img5.png', alt='Texto que describa la imagen')
           .col-lg-5.mb-5.sm-8
-            p.mt-1 El mercadeo digital (en inglés digital #[i marketing]) es el mercadeo que utilizan los canales o medios online para darse a conocer, es decir, se aprovecha del uso de la tecnología para realizar sus actividades. Es un término muy utilizado dado que, debido al Covid-19, se convirtió en la única forma de generar contacto con sus clientes y dar a conocer la oferta para muchas empresas.
+            p.mt-1 El mercadeo digital (en inglés digital #[i marketing]) es el mercadeo que utilizan los canales o medios 
+              i online 
+              | para darse a conocer, es decir, se aprovecha del uso de la tecnología para realizar sus actividades. Es un término muy utilizado dado que, debido al Covid-19, se convirtió en la única forma de generar contacto con sus clientes y dar a conocer la oferta para muchas empresas.
 
     .row
       .col-lg-12.mb-5

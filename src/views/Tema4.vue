@@ -21,7 +21,7 @@
         .bloque-texto-b.color-acento-contenido.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            p la planeación, recopilación y análisis de la información relevante para la toma de decisiones en las estrategias de marketing de las organizaciones
+            p la planeación, recopilación y análisis de la información relevante para la toma de decisiones en las estrategias de #[em marketing] de las organizaciones
             i.fas.fa-quote-right
             p  (p. 21).
 
@@ -191,7 +191,9 @@
                   .row.justify-content-between.align-items-center
                     .col.mb-4.mb-sm-0
                       h4.mb-1.text-white Técnicas de investigación cualitativa
-                      p.text-small.text-white Para ampliar la información, lo invitamos a ver el Anexo 1. Técnicas de investigación cualitativa, en el cual se describen las técnicas más utilizadas como, por ejemplo, la observación, entrevista en profundidad, técnicas proyectivas, grupos focales, estudios etnográficos, entre otros.  
+                      p.text-small.text-white Para ampliar la información, lo invitamos a ver el 
+                        b Anexo 1. Técnicas de investigación cualitativa,
+                        | en el cual se describen las técnicas más utilizadas como, por ejemplo, la observación, entrevista en profundidad, técnicas proyectivas, grupos focales, estudios etnográficos, entre otros.  
                     .col-sm-auto
                       a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexo 1. CF07 Tecnicas de investigación cualitativa.pdf')" target="_blank")
                         span Descargar

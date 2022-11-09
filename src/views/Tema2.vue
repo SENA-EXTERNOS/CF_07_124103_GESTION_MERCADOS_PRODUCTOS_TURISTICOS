@@ -23,34 +23,36 @@
           figure
             img(src='@/assets/curso/temas/tema2/img1.png', alt='Texto que describa la imagen').imagen-deco
         .col-lg-12
-          p.mt-3 Para profundizar en el entendimiento del producto turístico, Middleton y Clarke (2001) definen como las principales características de los productos turísticos, las siguientes:
+          p.mt-3 Para profundizar en el entendimiento del producto turístico, 
+            i Middleton y Clarke 
+            | (2001) definen como las principales características de los productos turísticos, las siguientes:
 
 
     .row.mt-5.justify-content-center.imgslider
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-center.my-lg-4
-          .col-lg-8
+          .col-lg-6
             .number(data-number="01")
-              b.ps-4 Estacionalidad
-              p.ps-4.mb-0.text-small.mt-2 esta es una variable implícita para el turismo y está asociada a que los usuarios de los servicios turísticos tienen ciertas épocas del año destinadas a hacer uso del turismo, lo que genera como consecuencia que los productos turísticos sean usados por ‘temporadas’. Esta variable está influenciada principalmente por aspectos climáticos, laborales, culturales y religiosos, ya que cada uno de estos momentos lleva consigo la asociación de cierto tipo de lugares. Por ejemplo, es común ver en Colombia los destinos turísticos con mayor ocupación en vacaciones de fin, comienzo y mitad de año, así como en Semana Santa.
+              b.ps-2 Estacionalidad
+              p.ps-2.mb-0.mt-2 esta es una variable implícita para el turismo y está asociada a que los usuarios de los servicios turísticos tienen ciertas épocas del año destinadas a hacer uso del turismo, lo que genera como consecuencia que los productos turísticos sean usados por ‘temporadas’. Esta variable está influenciada principalmente por aspectos climáticos, laborales, culturales y religiosos, ya que cada uno de estos momentos lleva consigo la asociación de cierto tipo de lugares. Por ejemplo, es común ver en Colombia los destinos turísticos con mayor ocupación en vacaciones de fin, comienzo y mitad de año, así como en Semana Santa.
           .col-6.col-lg-4
             figure
               img(src='@/assets/curso/temas/tema2/img2.png')
 
         .row.justify-content-center.align-items-center.my-lg-4
-          .col-lg-8
+          .col-lg-6
             .number(data-number="02")
-              b.ps-4 Costos fijos de las operaciones: 
-              p.ps-4.mb-0.text-small.mt-2 un costo fijo se entiende como aquellos costos en los que se incurre, independientemente del nivel de ventas o de la comercialización que tiene la empresa; de alguna manera, son aquellos que garantizan la operación de la empresa a nivel administrativo y de infraestructura. En este sentido, en los productos turísticos los costos fijos de las operaciones suelen ser altos, ya que están asociados al mantenimiento y conservación que, indistinto del nivel de clientes que se tengan, se debe garantizar que estén en buen estado, pues de no cuidarlos, el costo de implementar acciones correctivas va a ser mucho más alto que el que se tuvo con fines preventivos. 
+              b.ps-2 Costos fijos de las operaciones: 
+              p.ps-2.mb-0.mt-2 un costo fijo se entiende como aquellos costos en los que se incurre, independientemente del nivel de ventas o de la comercialización que tiene la empresa; de alguna manera, son aquellos que garantizan la operación de la empresa a nivel administrativo y de infraestructura. En este sentido, en los productos turísticos los costos fijos de las operaciones suelen ser altos, ya que están asociados al mantenimiento y conservación que, indistinto del nivel de clientes que se tengan, se debe garantizar que estén en buen estado, pues de no cuidarlos, el costo de implementar acciones correctivas va a ser mucho más alto que el que se tuvo con fines preventivos. 
           .col-6.col-lg-4
             figure
               img(src='@/assets/curso/temas/tema2/img3.png')
 
         .row.justify-content-center.align-items-center.my-lg-4
-          .col-lg-8
+          .col-lg-6
             .number(data-number="03")
-              h5.ps-4 Interdependencia con los otros productos turísticos: 
-              p.ps-4.mb-0.text-small.mt-2 el turismo es quizá de los sectores donde se evidencia la mayor interdependencia con los otros productos turísticos, ello implica que el uso o disfrute de un servicio tenga relación directa con la necesidad de usar otro. Por ejemplo, una visita a un museo tiene interdependencia con un servicio de desplazamiento.
+              h5.ps-2 Interdependencia con los otros productos turísticos: 
+              p.ps-2.mb-0.mt-2 el turismo es quizá de los sectores donde se evidencia la mayor interdependencia con los otros productos turísticos, ello implica que el uso o disfrute de un servicio tenga relación directa con la necesidad de usar otro. Por ejemplo, una visita a un museo tiene interdependencia con un servicio de desplazamiento.
           .col-6.col-lg-4
             figure
               img(src='@/assets/curso/temas/tema2/img4.png')

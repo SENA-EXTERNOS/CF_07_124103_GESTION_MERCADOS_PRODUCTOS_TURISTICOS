@@ -49,7 +49,7 @@
             img(src='@/assets/curso/temas/tema3/img7.svg' width='110px' height='110px').img3
           .col-xl-10
             h4 Distribuidores minoristas:
-            p Son aquellas empresas que venden directamente el producto turístico al cliente final. En esta línea están incluidas las agencias de viajes tradicionales (física), las agencias de viaje online y los operadores turísticos que comercializan al consumidor.
+            p Son aquellas empresas que venden directamente el producto turístico al cliente final. En esta línea están incluidas las agencias de viajes tradicionales (física), las agencias de viaje #[i online] y los operadores turísticos que comercializan al consumidor.
 
       .tarjeta.imgpestanas.p-4(titulo="Clientes/usuarios:")
         .row
