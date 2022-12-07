@@ -8,13 +8,14 @@
       h1 Estudios de mercado
 
     .row.justify-content-center.align-items-center
-          .col-3.mb-5.sm-8
-             figure
-               img(src='@/assets/curso/temas/tema4/img1.png', alt='Texto que describa la imagen').imagen-deco
-          .col-lg-5.mb-5.sm-8
-            p.mt-1 Un estudio de mercado es una investigación que se realiza antes de que una empresa entre a un nuevo mercado o plaza. Es por ello que para comprender el concepto de estudio de mercado debe conocerse y apreciarse el de investigación de mercados, el cual es el insumo para realizar dichos estudios.
-
-    .row.mt-3.justify-content-center
+      .col-lg-4.mb-0
+          figure
+            img(src='@/assets/curso/temas/tema4/img1.png', alt='Texto que describa la imagen').imagen-deco
+      .col-lg-7
+        p.mt-2 Un estudio de mercado es una investigación que se realiza antes de que una empresa entre a un nuevo mercado o plaza. Es por ello que para comprender el concepto de estudio de mercado debe conocerse y apreciarse el de investigación de mercados, el cual es el insumo para realizar dichos estudios.
+        p.mt-3 A continuación, se presenta el concepto de investigación de mercados según Kotler y otros expertos.
+    
+    .row.mt-3.justify-content-center.mt-2
       .col-10.col-lg-8
         p #[b Kotler, P.] (1996), define la investigación de mercados como: 
         
