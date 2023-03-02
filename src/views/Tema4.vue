@@ -36,18 +36,19 @@
             i.fas.fa-quote-right
             p (p. 13).
 
-    .row.mt-5.justify-content-center
+    .row.justify-content-center.mb-5.mt-3
       .col-lg-10
-        p Complementando estas definiciones, podría decirse que las investigaciones tienen por fin la entrega de información que permita conocer sobre un tema de interés de forma oportuna, es decir, en el momento en que se requiere y cuando es aplicada a un estudio de mercado, la finalidad será proporcionar información valiosa que permita a una empresa tomar la decisión de si es conveniente o no ingresar a un nuevo mercado, entendido como una nueva plaza o geografía.
+        p Complementando estas definiciones, podría decirse que las investigaciones tienen como fin la entrega de información que permita dar a conocer sobre un tema de interés de forma oportuna, es decir, en el momento en el que se requiere y, cuando es aplicada a un estudio de mercado, la finalidad será proporcionar información valiosa que permita a una empresa tomar la decisión de si es conveniente o no ingresar a un nuevo mercado, entendido este, como una nueva plaza o geografía.
 
-      p Para comprender el proceso de la investigación de mercados, este se resumirá en los siguientes pasos: 
 
     .row.mt-5
       ol.lista-ol--cuadro.lista-ol--separador
         li 
           .lista-ol--cuadro__vineta
             span 
-          b Proceso de realización de una investigación de mercados
+          h4 Proceso de realización de una investigación de mercados 
+      p Para comprender el proceso de la investigación de mercados, este se resumirá en los siguientes pasos:
+
 
     .row.justify-content-center.mb-5
     .col-lg-11.position-relative
@@ -103,7 +104,7 @@
 
           .col-9
             h4 Elaborar el informe
-            p Se estructura todo, contendrá imágenes, gráficos, tablas y texto que permitan mostrar de forma clara lo recopilado. Y sexto, aunque no menos importante.
+            p Se estructura todo, contendrá imágenes, gráficos, tablas y texto que permitan mostrar de forma clara lo recopilado.
 
       .tarjeta.imgpestanaborder2.p-4(titulo="Presentación de resultados")
         .row
@@ -113,18 +114,18 @@
 
           .col-9
             h4 Presentación de resultados
-            p Constituye el momento de verdad entre quien presenta la investigación y quien la solicitó, y es aquel instante donde se exponen los resultados obtenidos al realizar la investigación. Cuando se ha hecho un estudio para viabilizar un mercado, el informe deberá dar claras señales de si es conveniente o no para la empresa ingresar al nuevo mercado. 
+            p Constituye el momento de encuentro entre quien presenta la investigación y quien la solicitó, y es aquel instante donde se exponen los resultados obtenidos al realizar la investigación. Cuando se ha hecho un estudio para viabilizar un mercado, el informe deberá dar claras señales de si es conveniente o no para la empresa ingresar al nuevo mercado. 
       
         
 
-      p.mt-5 Se detalla el proceso para la realización de una investigación de mercados con un ejemplo.
 
-    .row.mt-5
+    .row.mt-5.mb-5
       ol.lista-ol--cuadro.lista-ol--separador
         li 
           .lista-ol--cuadro__vineta
             span 
-          b Ejemplo del proceso para la realización de una investigación de mercados
+          h4.mb-0 Ejemplo del proceso para la realización de una investigación de mercados
+      p Se detalla el proceso para la realización de una investigación de mercados con un ejemplo.    
 
     TabsB.color-acento-contenido.mb-5
       .py-4.py-md-5(titulo="Hotel La Mejor Estancia" :icono="require('@/assets/curso/temas/tema4/img2.svg')")
@@ -133,7 +134,7 @@
              figure
                img(src='@/assets/curso/temas/tema4/img3.png', alt='Texto que describa la imagen')
           .col-md-6.mb-4.mb-md-0
-            h4 Hoten La Mejor Estancia
+            h4 Hotel La Mejor Estancia 
             p Los directivos del Hotel La Mejor Estancia desean conocer si es viable abrir un nuevo hotel en el Valle del Cauca. Para ello, el gerente le solicita al equipo de mercadeo que realice una investigación de mercados.                 
       
       .py-4.py-md-5(titulo="Gustos, necesidades y expectativas de los huéspedes" :icono="require('@/assets/curso/temas/tema4/img4.png')")
@@ -169,41 +170,52 @@
           .col-md-6.mb-4.mb-md-0
             .tira_3
 
-    separador
+    
 
-    #t_4_1.titulo-segundo.color-acento-contenido.mt-5
-      h2 4.1  Estudios cualitativos
+    .row.mt-5.mb-2
+      ol.lista-ol--cuadro.lista-ol--separador
+        li 
+          .lista-ol--cuadro__vineta
+            span 
+          h4.mb-0 Estudios cualitativos
 
     .row
       .col
           figure
             img(src='@/assets/curso/temas/tema4/img10.png', alt='Texto que describa la imagen')
       
-      p.mt-5 Se basa en la ‘cualificación y caracterización’, suele tener un carácter exploratorio y descriptivo, y dar respuesta a preguntas como cuáles, cómo, en dónde, para qué, por qué y quiénes, por lo que en algunos casos se suele entender como centrada en la fenomenología y la comprensión, lo que conlleva a volúmenes de información considerables; aunque como consecuencia de esto también puede generar información subjetiva. Los resultados de la aplicación de esta metodología son funcionales solo para los participantes en el estudio, por tanto, no pueden generalizarse para la población (a diferencia de la metodología cuantitativa).
-      p No obstante, tiene como ventaja que la información posee un alto nivel de detalle y profundidad, por lo que permite entender fenómenos o situaciones que a simple vista no se detectan. En la metodología cualitativa se tienen muchas técnicas a disposición, ya que el mercadeo ha tomado de la antropología y la psicología varias de ellas para aplicarlas con fines de estudios de mercados; este tipo de técnicas requieren un alto nivel de formación y capacitación, por lo que comúnmente son realizadas por personal profesional/ licenciado.
+      p.mt-4 Se basan en la ‘cualificación y caracterización’, suelen tener un carácter exploratorio y descriptivo, y dar respuesta a preguntas como cuáles, cómo, en dónde, para qué, por qué y quiénes, por lo que en algunos casos se suelen entender como centrados en la fenomenología y la comprensión, lo que conlleva a volúmenes de información considerables; aunque como consecuencia de esto también puede generar información subjetiva. Los resultados de la aplicación de esta metodología son funcionales solo para los participantes en el estudio, por tanto, no pueden generalizarse para la población (a diferencia de la metodología cuantitativa).
+      p No obstante, tienen como ventaja que la información posee un alto nivel de detalle y profundidad, por lo que permite entender fenómenos o situaciones que a simple vista no se detectan. En la metodología cualitativa se tienen muchas técnicas a disposición, ya que el mercadeo ha tomado de la antropología y la psicología varias de ellas para aplicarlas con fines de estudios de mercados; este tipo de técnicas requieren un alto nivel de formación y capacitación, por lo que comúnmente son realizadas por personal profesional/ licenciado.
 
     .row.justify-content-around.align-items-centerrd.mt-5
-          .col-10
-            .tarjeta.bg8.mt-2.p-3
-              .row.justify-content-around.align-items-center
-                .col-lg-1.mb-3
-                  img(src="@/assets/curso/temas/tema4/img11.svg" width='200px' height='100px')
-                .col-11
-                  .row.justify-content-between.align-items-center
-                    .col.mb-4.mb-sm-0
-                      h4.mb-1.text-white Técnicas de investigación cualitativa
-                      p.text-small.text-white Para ampliar la información, lo invitamos a ver el 
-                        b Anexo 1. Técnicas de investigación cualitativa,
-                        | en el cual se describen las técnicas más utilizadas como, por ejemplo, la observación, entrevista en profundidad, técnicas proyectivas, grupos focales, estudios etnográficos, entre otros.  
-                    .col-sm-auto
-                      a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexo 1. CF07 Tecnicas de investigación cualitativa.pdf')" target="_blank")
-                        span Descargar
-                        i.fas.fa-file-download
+      .col-10
+        .tarjeta.bg8.mt-2.p-3
+          .row.justify-content-around.align-items-center
+            .col-lg-1.mb-3
+              img(src="@/assets/curso/temas/tema4/img11.svg" width='200px' height='100px')
+            .col-11
+              .row.justify-content-between.align-items-center
+                .col.mb-4.mb-sm-0
+                  h4.mb-1.text-white Técnicas de investigación cualitativa
+                  p.text-small.text-white Para ampliar la información, lo invitamos a ver el 
+                    b Anexo 1. Técnicas de investigación cualitativa,
+                    | en el cual se describen las técnicas más utilizadas como, por ejemplo, la observación, entrevista en profundidad, técnicas proyectivas, grupos focales, estudios etnográficos, entre otros.  
+                .col-sm-auto
+                  a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexo 1. CF07 Tecnicas de investigación cualitativa.pdf')" target="_blank")
+                    span Descargar
+                    i.fas.fa-file-download
 
-    #t_4_2.titulo-segundo.color-acento-contenido.mt-5
-      h2 4.2  Estudios cuantitavios
+                        
 
-    .row.mt-5.justify-content-center
+
+    .row.mt-5.mb-0
+      ol.lista-ol--cuadro.lista-ol--separador
+        li 
+          .lista-ol--cuadro__vineta
+            span 
+          h4.mb-0 Estudios cuantitativos
+
+    .row.mt-3.justify-content-center.mb-5
       .col-10
         .bloque-texto-g.color-primario.tarjetaimgcar.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img.carimg(
@@ -212,15 +224,17 @@
           .bloque-texto-g__texto2.p-4
             .col-10.col-lg-12
               p Se basa en cálculos estadísticos y matemáticos, es decir, numéricos. Se utiliza principalmente cuando se requiere conocer la respuesta al ‘cuánto’ o ‘qué cantidad’; es decir, siempre que se trabaje con esta metodología los resultados deberán expresarse en números. Esta medición es controlada, ya que las preguntas están enfocadas en obtener respuestas específicas, por tanto, se tiene un alcance objetivo y se tiene claro que al momento de ver los resultados deberán encontrarse porcentajes a lo largo de la presentación. Es importante mencionar que, al partir de ejercicios estadísticos, los resultados que se obtienen van más allá de los datos, es decir, es posible extraer conclusiones no solo para los encuestados sino para la población que cumple con las características del estudio (esto se denomina técnicamente inferencias), por lo que en muchos casos este tipo de investigaciones son confirmatorias.
+    
+    p En el siguiente video se exploran los instrumentos de recolección de información en los estudios cuantitativos. 
 
-      .video.mt-5
+      .video.mt-4
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption   VIDEO
 
     .row.justify-content-center.mt-5
       .col-lg-8.sm-8
         .cajon.color-acento-contenido.p-4
-          p Cabe mencionar que una buena encuesta debe cumplir dos características fundamentales: fiabilidad, donde se evalúa si esta, en igualdad de condiciones, proporciona iguales resultados, es decir, es precisa y se entiende lo mismo cada vez que se aplica, y validez, la cual consiste en que mida lo que tiene que medir.
+          p.mb-0 Cabe mencionar que una buena encuesta debe cumplir dos características fundamentales: fiabilidad, donde se evalúa si esta, en igualdad de condiciones, proporciona iguales resultados, es decir, es precisa y se entiende lo mismo cada vez que se aplica, y validez, la cual consiste en que mida lo que tiene que medir.
       
     .row.justify-content-around.align-items-center.mt-5
           .col-lg-2.col-sm-10

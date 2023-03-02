@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Viabilizando el mercado turístico',
     descripcionCurso:
-      'Una vez se caracteriza el mercado, se diagnostica el entorno estimando la demanda. En este sentido, es necesario determinar la viabilidad del mercado turístico, lo que equivale a definir si el mercado o la plaza en la cual desea incursionar la empresa es comercialmente atractiva y puede generar la demanda esperada.',
+      'Una vez se caracteriza el mercado, se diagnostica el entorno estimando la demanda. Es necesario determinar la viabilidad del mercado turístico, lo que equivale a definir si el mercado o la plaza en la cual desea incursionar la empresa, es comercialmente atractiva y puede generar la demanda esperada.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -61,20 +61,6 @@ export default {
         numero: '4',
         titulo: 'Estudios de mercado',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.1',
-            titulo: 'Estudios cualitativos',
-            hash: 't_4_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.2',
-            titulo: 'Estudios cuantitativos',
-            hash: 't_4_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema5',
@@ -82,20 +68,6 @@ export default {
         numero: '5',
         titulo: 'Mercadeo',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.1',
-            titulo: 'Mercadeo análogo',
-            hash: 't_5_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.2',
-            titulo: 'Mercadeo digital',
-            hash: 't_5_2',
-          },
-        ],
       },
     ],
     subMenu: [
@@ -227,22 +199,18 @@ export default {
     {
       referencia:
         'Kinnear, T. & Taylor, J. (1998). <em>Investigación de Mercados.</em> Editorial Mc. Graw Hill, Bogotá.',
-      link: '',
     },
     {
       referencia:
         'Kotler, P. & Armstrong, G. (1996). <em>Mercadotecnia.</em> Editorial Prentice Hall Hispanoamérica. ',
-      link: '',
     },
     {
       referencia:
         'Middleton, V., Clarke, J. (2001): <em>Marketing in travel and tourism.</em> Butterworth Heinemann. Oxford.',
-      link: '',
     },
     {
       referencia:
-        'Shum Xie, Y. M. (2019). <em>Marketing digital: navegando en aguas digitales.</em> Sumérgete conmigo. Ediciones de la U.',
-      link: '',
+        'Shum Xie, Y. M. (2019). <em>Marketing digital: navegando en aguas digitales. Sumérgete conmigo.</em> Ediciones de la U.',
     },
   ],
   creditos: {
