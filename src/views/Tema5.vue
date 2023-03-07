@@ -8,7 +8,7 @@
       h1 Mercadeo 
 
 
-    p Mercadeo o #[em marketing] en inglés, es el nombre con el cual se conoce al conjunto de estrategias, tácticas y actividades que diseña e implementa una empresa para que su portafolio llegue de manera exitosa a los clientes; de hecho, Kotler & Armstrong definen el mercadeo como:
+    p Mercadeo o #[em marketing] en inglés, es el nombre con el cual se conoce al conjunto de estrategias, tácticas y actividades que diseña e implementa una empresa para que su portafolio llegue de manera exitosa a los clientes; de hecho, Kotler y Armstrong (2007), definen el mercadeo como:
 
    
     .row.mt-3.justify-content-center
@@ -18,7 +18,7 @@
             i.fas.fa-quote-left
             p El proceso mediante el cual las compañías crean valor para los clientes y establecen relaciones estrechas con ellos, para recibir a cambio valor de los clientes
             i.fas.fa-quote-right
-          p.mt-2.px-3.px-md-5.text-right (Kotler & Armstrong, 2007, p. 4).  
+          p.mt-1.px-3.px-md-5.text-center (p. 4).  
 
 
       p.mt-2 De acuerdo con lo anterior, el mercadeo es un proceso que cada vez cobra más relevancia dentro de las organizaciones, ya que toda la empresa, sin importar su actividad económica o tamaño (micro, pequeña, mediana o grande), necesita que su portafolio sea adquirido por los clientes y siempre será necesario cuando una empresa viabiliza un mercado y quiere llegar a él. 
@@ -90,73 +90,73 @@
     
     .row.justify-content-center.align-items-center.my-lg-4
       .col-lg-6
-        ImagenInfografica.color-acento-botones
+        ImagenInfografica.color-acento-botones.tema5
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/temas/tema5/img4.png', alt='Texto que describa la imagen')
               
         
           .tarjeta.color-acento-botones.p-4(x="58%" y="27%" numero="")
-            .row
-              .col-5
+            .row.align-items-center
+              .col-4
                 figure
-                img(src="@/assets/curso/temas/tema5/icono1.svg" width='110px' height='110px')  
+                img(src="@/assets/curso/temas/tema5/icono1.svg" )  
 
-              .col-lg-7
+              .col-lg-8
                 b.mb-1 Producto:
                 p Aquello que la empresa ofrece al mercado. 
 
           .tarjeta.color-acento-botones.p-3(x="71%" y="40%" numero="") 
-            .row
-              .col-5
+            .row.align-items-center
+              .col-4
                 figure
-                img(src="@/assets/curso/temas/tema5/icono2.svg" width='110px' height='110px')       
-              .col-7      
+                img(src="@/assets/curso/temas/tema5/icono2.svg" )       
+              .col-8      
                 b Precio:
                 p Es el valor monetario de la transacción, es decir, es lo que paga el cliente a cambio de obtener el producto que requiere.
 
           .tarjeta.color-acento-botones.p-3(x="69%" y="61.2%" numero="")
-            .row
-              .col-5
+            .row.align-items-center
+              .col-4
                 figure
-                img(src="@/assets/curso/temas/tema5/icono3.svg" width='110px' height='110px')       
-              .col-7.p-2
+                img(src="@/assets/curso/temas/tema5/icono3.svg")       
+              .col-8.p-2
                 b Promoción (comunicación): 
-                p Está relacionada con aquellas tácticas enfocados en la marca y en la comunicación de la oferta de valor.
+                p Está relacionada con aquellas tácticas enfocadas en la marca y en la comunicación de la oferta de valor.
 
           .tarjeta.color-acento-botones.p-3(x="51%" y="73.5%" numero="")
-            .row
-              .col-5
+            .row.align-items-center
+              .col-4
                 figure
-                img(src="@/assets/curso/temas/tema5/icono4.svg" width='110px' height='110px')       
-              .col-7
+                img(src="@/assets/curso/temas/tema5/icono4.svg" )       
+              .col-8
                 b Plaza:
                 p Está asociada a los canales de distribución y cómo se asegura que el producto llegue a manos del cliente.
 
           .tarjeta.color-acento-botones.p-3(x="36%" y="68%" numero="")
-            .row
-              .col-lg-5
+            .row.align-items-center
+              .col-lg-4
                 figure
-                img(src="@/assets/curso/temas/tema5/icono5.svg" width='110px' height='110px')       
-              .col-lg-7
+                img(src="@/assets/curso/temas/tema5/icono5.svg" )       
+              .col-lg-8
                 b Personas:
                 p Los colaboradores de la empresa son los que pueden realmente hacer que las cosas sucedan; es por ello que se convierten en protagonistas dentro de las estrategias de mercadeo. Asimismo, son las personas las que generalmente van a interactuar con los clientes y generarán en ellos percepciones positivas o negativas de la marca.
 
           .tarjeta.color-acento-botones.p-3(x="28%" y="48%" numero="")
-            .row
-              .col-lg-5
+            .row.align-items-center
+              .col-lg-4
                 figure
-                img(src="@/assets/curso/temas/tema5/icono6.svg" width='110px' height='110px')       
-              .col-lg-7
+                img(src="@/assets/curso/temas/tema5/icono6.svg" )       
+              .col-lg-8
                 b Procesos:
                 p Para que las diferentes acciones de mercadeo se lleven a cabo de la mejor manera posible, deben existir procesos que permitan que, de cara al cliente, todo tenga estructura y un paso a paso claro y sencillo para interactuar con la empresa en el momento de gestionar sus requerimientos.
 
           .tarjeta.color-acento-botones.p-3(x="38%" y="29%" numero="")
-            .row
-              .col-lg-5
+            .row.align-items-center
+              .col-lg-4
                 figure
-                img(src="@/assets/curso/temas/tema5/icono7.svg" width='110px' height='110px')       
-              .col-lg-7
+                img(src="@/assets/curso/temas/tema5/icono7.svg" )       
+              .col-lg-8
                 b Posicionamiento:
                 p Estar posicionado es estar en la mente del cliente, es por esto que las empresas diseñan cada vez más tácticas que permitan llegar a los clientes y quedar de primero en sus pensamientos, y luego en su corazón cuando piensan en una categoría.
 
@@ -180,7 +180,7 @@
             figure
               img(src='@/assets/curso/temas/tema5/img5.png', alt='Texto que describa la imagen')
           .col-lg-7.mb-5.sm-8
-            p.mt-1 El mercadeo digital (en inglés #[em digital marketing]) es el mercadeo que utilizan los canales o medios online para darse a conocer, es decir, se aprovecha del uso de la tecnología para realizar sus actividades. Es un término muy utilizado dado que, debido al Covid-19, durante un tiempo se convirtió en la única forma de generar contacto con sus clientes y dar a conocer la oferta para muchas empresas.
+            p.mt-1 El mercadeo digital (en inglés #[em digital marketing]) es el mercadeo que utilizan los canales o medios #[em online] para darse a conocer, es decir, se aprovecha del uso de la tecnología para realizar sus actividades. Es un término muy utilizado dado que, debido al Covid-19, durante un tiempo se convirtió en la única forma de generar contacto con sus clientes y dar a conocer la oferta para muchas empresas.
 
     .row
       .col-lg-12.mb-5
@@ -259,7 +259,7 @@
                   .row.justify-content-between.align-items-center
                     .col.mb-4.mb-sm-0
                       h4.mb-1.text-white Medios digitales
-                      p.text-small.text-white Para ampliar la información, lo invitamos a ver el #[b Anexo 2. Medios digitales], en el cual se detallan aspectos relacionados con los medios en mercadeo digital propios, pagos y ganados.   
+                      p.text-white Para ampliar la información, lo invitamos a ver el #[b Anexo 2. Medios digitales], en el cual se detallan aspectos relacionados con los medios en mercadeo digital propios, pagos y ganados.   
                     .col-sm-auto
                       a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexo 2. CF07 Medios digitales.pdf')" target="_blank")
                         span Descargar

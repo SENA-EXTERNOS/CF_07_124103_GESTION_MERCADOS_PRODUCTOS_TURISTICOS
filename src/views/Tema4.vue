@@ -22,7 +22,7 @@
         .bloque-texto-b.color-acento-contenido.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            p la planeación, recopilación y análisis de la información relevante para la toma de decisiones en las estrategias de #[em marketing] de las organizaciones
+            p La planeación, recopilación y análisis de la información relevante para la toma de decisiones en las estrategias de #[em marketing] de las organizaciones
             i.fas.fa-quote-right
             p  (p. 21).
 
@@ -32,7 +32,7 @@
         .bloque-texto-b.color-cajon.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            p un enfoque sistemático y objetivo del desarrollo y la provisión de información aplicable al proceso de toma de decisiones en la gerencia de mercadeo
+            p Un enfoque sistemático y objetivo del desarrollo y la provisión de información aplicable al proceso de toma de decisiones en la gerencia de mercadeo
             i.fas.fa-quote-right
             p (p. 13).
 
@@ -184,7 +184,7 @@
           figure
             img(src='@/assets/curso/temas/tema4/img10.png', alt='Texto que describa la imagen')
       
-      p.mt-4 Se basan en la ‘cualificación y caracterización’, suelen tener un carácter exploratorio y descriptivo, y dar respuesta a preguntas como cuáles, cómo, en dónde, para qué, por qué y quiénes, por lo que en algunos casos se suelen entender como centrados en la fenomenología y la comprensión, lo que conlleva a volúmenes de información considerables; aunque como consecuencia de esto también puede generar información subjetiva. Los resultados de la aplicación de esta metodología son funcionales solo para los participantes en el estudio, por tanto, no pueden generalizarse para la población (a diferencia de la metodología cuantitativa).
+      p.mt-4 Se basan en la ‘cualificación y caracterización’, suelen tener un carácter exploratorio y descriptivo, y dar respuesta a preguntas como ¿cuáles?, ¿cómo?, ¿dónde?, ¿para qué?, ¿por qué? y ¿quiénes?; por lo que en algunos casos se suelen entender como centrados en la fenomenología y la comprensión, lo que conlleva a volúmenes de información considerables; aunque como consecuencia de esto también puede generar información subjetiva. Los resultados de la aplicación de esta metodología son funcionales solo para los participantes en el estudio, por tanto, no pueden generalizarse para la población (a diferencia de la metodología cuantitativa).
       p No obstante, tienen como ventaja que la información posee un alto nivel de detalle y profundidad, por lo que permite entender fenómenos o situaciones que a simple vista no se detectan. En la metodología cualitativa se tienen muchas técnicas a disposición, ya que el mercadeo ha tomado de la antropología y la psicología varias de ellas para aplicarlas con fines de estudios de mercados; este tipo de técnicas requieren un alto nivel de formación y capacitación, por lo que comúnmente son realizadas por personal profesional/ licenciado.
 
     .row.justify-content-around.align-items-centerrd.mt-5
@@ -197,7 +197,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-4.mb-sm-0
                   h4.mb-1.text-white Técnicas de investigación cualitativa
-                  p.text-small.text-white Para ampliar la información, lo invitamos a ver el 
+                  p.text-white Para ampliar la información, lo invitamos a ver el 
                     b Anexo 1. Técnicas de investigación cualitativa,
                     | en el cual se describen las técnicas más utilizadas como, por ejemplo, la observación, entrevista en profundidad, técnicas proyectivas, grupos focales, estudios etnográficos, entre otros.  
                 .col-sm-auto

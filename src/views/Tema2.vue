@@ -22,9 +22,7 @@
             img(src='@/assets/curso/temas/tema2/img1.png', alt='Texto que describa la imagen').imagen-deco
         
 
-    p Para profundizar en el entendimiento del producto turístico, 
-      i Middleton y Clarke 
-      | (2001) definen como las principales características de los productos turísticos, las siguientes:
+    p Para profundizar en el entendimiento del producto turístico, Middleton y Clarke (2001) definen como las principales características de los productos turísticos, las siguientes:
 
 
     .row.mt-5.justify-content-center.imgslider
@@ -42,7 +40,7 @@
         .row.justify-content-center.align-items-center.my-lg-4
           .col-lg-6
             .number(data-number="02")
-              h4.ps-2 Costos fijos de las operaciones: 
+              h4.ps-2 Costos fijos de las operaciones
               p.ps-2.mb-0.mt-2 El costo fijo se entiende como aquellos costos en los que se incurre, independientemente del nivel de ventas o de la comercialización que tiene la empresa; de alguna manera, son aquellos que garantizan la operación de la empresa a nivel administrativo y de infraestructura. En este sentido, en los productos turísticos los costos fijos de las operaciones suelen ser altos, ya que están asociados al mantenimiento y conservación que, indistinto del nivel de clientes que se tenga, se debe garantizar que estén en buen estado, pues de no cuidarlos, el costo de implementar acciones correctivas va a ser mucho más alto que el que se tuvo con fines preventivos. 
           .col-6.col-lg-4
             figure
@@ -51,7 +49,7 @@
         .row.justify-content-center.align-items-center.my-lg-4
           .col-lg-6
             .number(data-number="03")
-              h4.ps-2 Interdependencia con los otros productos turísticos: 
+              h4.ps-2 Interdependencia con los otros productos turísticos
               p.ps-2.mb-0.mt-2 El turismo es quizá de los sectores donde se evidencia mayor interdependencia con los otros productos turísticos, esto implica que el uso o disfrute de un servicio tenga relación directa con la necesidad de usar otro. Por ejemplo, una visita a un museo tiene interdependencia con un servicio de desplazamiento.
           .col-6.col-lg-4
             figure
@@ -79,7 +77,7 @@
                 .row.justify-content-between.align-items-center
                   .col-xl-12
                     b.mb-1.text-white La planta física
-                    p.text-small.text-white Es considerada el fundamento del producto turístico y está asociado con las instalaciones, lugares y recursos naturales donde funciona el producto. Asimismo, incluye las condiciones ambientales y meteorológicas del destino en cuestión. Este componente puede, en primera instancia, ser el generador de interés por parte del cliente interesado, y por tanto, tiene gran preponderancia en la evaluación que haga el turista del lugar.
+                    p.text-white Es considerada el fundamento del producto turístico y está asociado con las instalaciones, lugares y recursos naturales donde funciona el producto. Asimismo, incluye las condiciones ambientales y meteorológicas del destino en cuestión. Este componente puede, en primera instancia, ser el generador de interés por parte del cliente interesado, y por tanto, tiene gran preponderancia en la evaluación que haga el turista del lugar.
             
 
           .tarjeta.bg2(x="50%" y="16%" numero="2")
@@ -91,7 +89,7 @@
               .row.justify-content-between.align-items-center
                 .col-xl-12        
                   b.mb-1.text-white El servicio
-                  p.text-small.text-white Es aquello que da la usabilidad al producto turístico, es decir, es lo que posibilita que se pueda generar la experiencia para el cliente. En términos prácticos, está constituido por todas aquellas actividades que se realizan para satisfacer las necesidades de los clientes, por lo tanto, el papel de los colaboradores de la empresa es vital para prestar un buen servicio.
+                  p.text-white Es aquello que da la usabilidad al producto turístico, es decir, es lo que posibilita que se pueda generar la experiencia para el cliente. En términos prácticos, está constituido por todas aquellas actividades que se realizan para satisfacer las necesidades de los clientes, por lo tanto, el papel de los colaboradores de la empresa es vital para prestar un buen servicio.
 
           
           .tarjeta.bg3(x="50%" y="29.2%" numero="3")
@@ -103,7 +101,7 @@
               .row.justify-content-between.align-items-center
                 .col-xl-12
                   b.mb-1.text-white La hospitalidad  
-                  p.text-small.text-white Esta variable hace alusión a ‘dar la milla extra’, es decir, la hospitalidad se refiere al hecho de ir más allá, de hacer sentir al visitante tan cómodo como si estuviera en su casa. Aquí los colaboradores son protagonistas porque van más allá de prestar el servicio y se enfocan en que los visitantes tengan experiencias memorables, por tanto, esta aplica desde el mismo momento del recibimiento hasta la acogida.
+                  p.text-white Esta variable hace alusión a ‘dar la milla extra’, es decir, la hospitalidad se refiere al hecho de ir más allá, de hacer sentir al visitante tan cómodo como si estuviera en su casa. Aquí los colaboradores son protagonistas porque van más allá de prestar el servicio y se enfocan en que los visitantes tengan experiencias memorables, por tanto, esta aplica desde el mismo momento del recibimiento hasta la acogida.
 
         
           .tarjeta.bg4(x="50%" y="40.5%" numero="4")
@@ -114,8 +112,8 @@
             .col-lg-10
               .row.justify-content-between.align-items-center
                 .col-xl-12
-                 b.mb-1.text-white La libertad de elección 
-                 p.text-small.text-white Se refiere a la disponibilidad de opciones para el turista, que este pueda comparar, analizar y escoger entre las opciones existentes, de modo que, al elegir, sienta que esta es la opción que mejor cumplirá sus requerimientos. Por supuesto, la capacidad de elección no solo dependerá de la necesidad, sino también de la cantidad de recursos disponibles (presupuesto, tiempo) y de la disponibilidad que brinda el operador turístico, la agencia de viajes o quien haga sus veces, sin embargo, todo producto turístico por principio básico debería poder tener habilitadas varias opciones.
+                 b.mb-1 La libertad de elección 
+                 p Se refiere a la disponibilidad de opciones para el turista, que este pueda comparar, analizar y escoger entre las opciones existentes, de modo que, al elegir, sienta que esta es la opción que mejor cumplirá sus requerimientos. Por supuesto, la capacidad de elección no solo dependerá de la necesidad, sino también de la cantidad de recursos disponibles (presupuesto, tiempo) y de la disponibilidad que brinda el operador turístico, la agencia de viajes o quien haga sus veces, sin embargo, todo producto turístico por principio básico debería poder tener habilitadas varias opciones.
 
           .tarjeta.bg5(x="50%" y="53.6%" numero="5")
            .row.justify-content-around.align-items-center.p-4
@@ -125,8 +123,8 @@
             .col-lg-10
               .row.justify-content-between.align-items-center
                 .col-xl-12
-                 b.mb-1.text-white La implicación del cliente 
-                 p.text-small.text-white La implicación del cliente se da en la medida en que el cliente se sienta parte del producto turístico, y eso se da a partir de la combinación de los demás componentes (planta física, servicio, hospitalidad y libertad de elección), a la vez que interactúa con otros turistas.
+                 b.mb-1 La implicación del cliente 
+                 p La implicación del cliente se da en la medida en que el cliente se sienta parte del producto turístico, y eso se da a partir de la combinación de los demás componentes (planta física, servicio, hospitalidad y libertad de elección), a la vez que interactúa con otros turistas.
 
     .row.mt-5
       ol.lista-ol--cuadro.lista-ol--separador

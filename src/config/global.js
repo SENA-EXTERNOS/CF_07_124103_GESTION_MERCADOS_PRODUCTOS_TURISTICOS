@@ -112,14 +112,14 @@ export default {
   },
   complementario: [
     {
-      tema: '2. El producto turístico y sus sustitutos ',
+      tema: 'El producto turístico y sus sustitutos ',
       referencia:
         'García, A. y Alburquerque, F. (2003). <em> El turismo cultural y el de sol y playa: ¿sustitutivos o complementarios?</em> Cuadernos de Turismo. Universidad Politécnica de Cartagena.',
       tipo: 'Artículo',
       link: 'https://revistas.um.es/turismo/article/view/19581/18921/',
     },
     {
-      tema: '4. Estudios de mercado',
+      tema: 'Estudios de mercado',
       referencia:
         'Kotler, P. & Armstrong, G. (2007). <em>Marketing, Versión para Latinoamérica.</em> Decimoprimera ed. México. Pearson Educación.',
       tipo: 'Libro',
@@ -127,7 +127,7 @@ export default {
         'https://www.academia.edu/42907931/MARKETING_Versi%C3%B3n_para_Latinoam%C3%A9rica',
     },
     {
-      tema: '4. Estudios de mercado',
+      tema: 'Estudios de mercado',
       referencia:
         'Malhotra, N. (2008). <em>Investigación de Mercados.</em> Pearson Educación. Quinta Edición.',
       tipo: 'Libro',
@@ -135,7 +135,7 @@ export default {
         'http://www.elmayorportaldegerencia.com/Libros/Mercadeo/%5BPD%5D%20Libros%20-%20Investigacion%20de%20Mercados.pdf',
     },
     {
-      tema: '5.1 Mercadeo análogo',
+      tema: 'Mercadeo análogo',
       referencia:
         'Armstrong, G. y Kotler, P. (2013). <em>Fundamentos de marketing.</em> Pearson Educación. Decimoprimera edición.',
       tipo: 'Libro',
