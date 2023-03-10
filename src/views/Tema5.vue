@@ -18,7 +18,7 @@
             i.fas.fa-quote-left
             p El proceso mediante el cual las compañías crean valor para los clientes y establecen relaciones estrechas con ellos, para recibir a cambio valor de los clientes
             i.fas.fa-quote-right
-          p.mt-1.px-3.px-md-5.text-center (p. 4).  
+            p  (p. 4).  
 
 
       p.mt-2 De acuerdo con lo anterior, el mercadeo es un proceso que cada vez cobra más relevancia dentro de las organizaciones, ya que toda la empresa, sin importar su actividad económica o tamaño (micro, pequeña, mediana o grande), necesita que su portafolio sea adquirido por los clientes y siempre será necesario cuando una empresa viabiliza un mercado y quiere llegar a él. 

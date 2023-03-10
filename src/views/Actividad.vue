@@ -12,7 +12,7 @@
             img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-acento-contenido
-          h2 Conceptos claves para viabilizar un mercado
+          h2 Viabilizando el mercado turístico
         p.mb-4 El objetivo de esta actividad es evaluar el nivel de interiorización de los temas por parte de los aprendices. Seleccione, según su parecer, si los enunciados a continuación son verdaderos o falsos.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            

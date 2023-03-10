@@ -24,7 +24,7 @@
             i.fas.fa-quote-left
             p La planeación, recopilación y análisis de la información relevante para la toma de decisiones en las estrategias de #[em marketing] de las organizaciones
             i.fas.fa-quote-right
-            p  (p. 21).
+            p   (p. 21).
 
       .col-10.col-lg-8
         p Por su parte, #[b Kinnear & Taylor] (1998) la interpretan como: 
@@ -34,7 +34,7 @@
             i.fas.fa-quote-left
             p Un enfoque sistemático y objetivo del desarrollo y la provisión de información aplicable al proceso de toma de decisiones en la gerencia de mercadeo
             i.fas.fa-quote-right
-            p (p. 13).
+            p  (p. 13).
 
     .row.justify-content-center.mb-5.mt-3
       .col-lg-10
