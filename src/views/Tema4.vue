@@ -228,7 +228,7 @@
     p En el siguiente video se exploran los instrumentos de recolección de información en los estudios cuantitativos. 
 
       .video.mt-4
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/fF8UGmWK9fI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption   VIDEO
 
     .row.justify-content-center.mt-5
