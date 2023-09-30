@@ -26,7 +26,7 @@
         .row.justify-content-center.align-items-center.my-lg-2(titulo="")
           .col-lg-7.md-6.mb-4.mb-md-0
             h4 Misión
-            p.mt-4 La misión es la formalización por parte de una empresa de su razón de ser, en esta se define, de manera general y sintetizada, qué es aquello que los clientes pueden encontrar en la empresa. Usualmente, la misión está escrita en uno o máximos dos párrafos, en ella se da respuesta a las siguientes preguntas: ¿quiénes son?, ¿a qué se dedican?, ¿a quién están dirigidos los productos de la compañía? (público objetivo) y ¿cuál es la ventaja competitiva?, es decir, ¿qué hace diferente a la empresa de otras que ofrecen los mismos productos?
+            p.mt-4 La misión es la formalización por parte de una empresa de su razón de ser, en esta se define, de manera general y sintetizada, qué es aquello que los clientes pueden encontrar en la empresa. Usualmente, la misión está escrita en uno o máximo dos párrafos, en ella se da respuesta a las siguientes preguntas: ¿quiénes son?, ¿a qué se dedican?, ¿a quién están dirigidos los productos de la compañía? (público objetivo) y ¿cuál es la ventaja competitiva?, es decir, ¿qué hace diferente a la empresa de otras que ofrecen los mismos productos?
             p.mt-3 En lo asociado a su redacción, se escribe en tiempo presente. Según la forma de comunicación de la empresa podrá estar en primera o en tercera persona y debe ser tan clara que cualquier persona que la lea tenga un entendimiento básico de a qué se dedica la empresa y cuál es su propuesta de valor para con los clientes. A nivel organizacional, la misión también es importante, porque alinea la perspectiva de los colaboradores.
           .col-lg-4.md-5.mt-3
             figure
@@ -45,7 +45,7 @@
         .row.justify-content-center.align-items-center.my-lg-4(titulo="")
           .col-lg-7.md-6.mb-4.mb-md-0
             h4 Objetivos corporativos/metas
-            p.mt-4 Si bien los objetivos corporativos y metas son dos conceptos diferentes, no todas las empresas definen ambos, por lo que varios autores han coincido en que basta con tener al menos uno de los dos. Los objetivos corporativos corresponden a aquellos logros que espera tener la empresa, asociados al cumplimiento de la visión, y que deben ser específicos, medibles, alcanzables, realistas y tener un horizonte de tiempo para ejecutarse. Por su parte, las metas son más ambiciosas y suelen ser más pocas, incluso en muchas ocasiones una sola, y en general, está asociada a un tema de negocio. Ejemplo: 
+            p.mt-4 Si bien los objetivos corporativos y metas son dos conceptos diferentes, no todas las empresas definen ambos, por lo que varios autores han coincido en que, basta con tener al menos uno de los dos. Los objetivos corporativos corresponden a aquellos logros que espera tener la empresa, asociados al cumplimiento de la visión, y que deben ser específicos, medibles, alcanzables, realistas y tener un horizonte de tiempo para ejecutarse. Por su parte, las metas son más ambiciosas y suelen ser más pocas, incluso en muchas ocasiones una sola, y en general, está asociada a un tema de negocio. Ejemplo: 
             | Objetivo: acrecentar un 5 % las ventas de paquetes turísticos en Antioquia, la meta podría ser tener 5.000 clientes.
 
           .col-lg-4.md-5.mt-3

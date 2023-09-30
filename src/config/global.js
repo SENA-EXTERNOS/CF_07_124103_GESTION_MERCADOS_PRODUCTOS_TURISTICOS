@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Viabilizando el mercado turístico',
     descripcionCurso:
-      'Una vez se caracteriza el mercado, se diagnostica el entorno estimando la demanda. Es necesario determinar la viabilidad del mercado turístico, lo que equivale a definir si el mercado o la plaza en la cual desea incursionar la empresa, es comercialmente atractiva y puede generar la demanda esperada.',
+      'Una vez se caracteriza el mercado, se diagnostica el entorno estimando de la demanda. Es necesario determinar la viabilidad del mercado turístico, lo que equivale a definir si el mercado o la plaza en la cual desea incursionar la empresa, es comercialmente atractiva y puede generar la demanda esperada.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -124,7 +124,7 @@ export default {
         'Kotler, P. & Armstrong, G. (2007). <em>Marketing, Versión para Latinoamérica.</em> Decimoprimera ed. México. Pearson Educación.',
       tipo: 'Libro',
       link:
-        'https://www.academia.edu/42907931/MARKETING_Versi%C3%B3n_para_Latinoam%C3%A9rica',
+        'https://davidfloresblog.com/wp-content/uploads/2019/03/Libro-de-Marketing-kottler-phillip-armstrong-gary.pdf',
     },
     {
       tema: 'Estudios de mercado',

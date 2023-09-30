@@ -184,7 +184,7 @@
 
     .row
       .col-lg-12.mb-5
-        p El mercadeo digital ofrece un sin número de oportunidades para las empresas, aunque también tiene algunas limitantes. Con el fin de dar mejores perspectivas de este tema, a continuación se muestran las principales ventajas que trae el mercado digital:
+        p El mercadeo digital ofrece un sin número de oportunidades para las empresas, aunque también tiene algunas limitantes. Con el fin de dar mejores perspectivas de este tema, a continuación, se muestran las principales ventajas que trae el mercado digital:
 
     .row.justify-content-center
       .col-lg-8
@@ -216,9 +216,9 @@
         li 
           .lista-ol--cuadro__vineta
             span 
-          h4.mb-0 Las 4C´s del mercadeo digital
+          h4.mb-0 Las 4C’s del mercadeo digital
 
-    p En el mercadeo digital, las 4P’s del tradicional son reemplazadas por las 4C para hacer más hincapié al relacionamiento con los clientes; en este sentido, se definen las C del mercadeo digital como: Consumidor, Comunicación, Costo y Conveniencia (Shum, 2019). 
+    p En el mercadeo digital, las 4P’s del tradicional son reemplazadas por las 4C’s para hacer más hincapié al relacionamiento con los clientes; en este sentido, se definen las C del mercadeo digital como: Consumidor, Comunicación, Costo y Conveniencia (Shum, 2019). 
 
     p.mb-4 A continuación, se menciona brevemente el enfoque de cada una de estas variables:      
 

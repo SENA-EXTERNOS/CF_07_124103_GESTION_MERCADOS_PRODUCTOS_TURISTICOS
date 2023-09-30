@@ -54,7 +54,7 @@
     .col-lg-11.position-relative
       .avatar
         figure
-        img(src="@/assets/curso/temas/tema4/img14.png", alt="alt").img250
+        img(src="@/assets/curso/temas/tema4/img14.png", alt="alt")
       .tarjeta.imgpestanaborder.p-4(titulo="Planeación")
         .row
           .col-1
@@ -234,7 +234,7 @@
     .row.justify-content-center.mt-5
       .col-lg-8.sm-8
         .cajon.color-acento-contenido.p-4
-          p.mb-0 Cabe mencionar que una buena encuesta debe cumplir dos características fundamentales: fiabilidad, donde se evalúa si esta, en igualdad de condiciones, proporciona iguales resultados, es decir, es precisa y se entiende lo mismo cada vez que se aplica, y validez, la cual consiste en que mida lo que tiene que medir.
+          p.mb-0 Cabe mencionar que una buena encuesta debe cumplir dos características fundamentales: fiabilidad, donde se evalúa si está, en igualdad de condiciones, proporciona iguales resultados, es decir, es precisa y se entiende lo mismo cada vez que se aplica, y validez, la cual consiste en que mida lo que tiene que medir.
       
     .row.justify-content-around.align-items-center.mt-5
           .col-lg-2.col-sm-10
